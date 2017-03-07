@@ -24,7 +24,7 @@ An overview of the AEM platform can be found
       <server>
         <id>westfieldlabs</id>
         <username>aem</username>
-        <password>SK8-VxW-wBu-Rb5</password>
+        <password>Z39-3xt-991-R1D</password>
         <configuration>
           <timeout>5000</timeout>
         </configuration>
